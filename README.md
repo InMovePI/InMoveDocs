@@ -1,20 +1,23 @@
 # Projeto Integrador - Modelo
-*(Coloque aqui o nome do seu projeto.)*
+InMove
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Coloque aqui uma breve descrição do seu projeto.)*
+
+O **InMove** é um aplicativo completo focado em saúde e bem-estar, oferecendo funcionalidades para a criação de treinos e dietas personalizadas, além de relatórios comparativos de progresso e dicas de receitas saudáveis. Ideal para quem busca alcançar objetivos como hipertrofia, emagrecimento ou simplesmente melhorar a qualidade de vida, o InMove fornece ferramentas práticas e motivadoras para acompanhar e otimizar seu desempenho, ajudando a conquistar resultados sustentáveis e um estilo de vida mais saudável.
 
 **IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/1KXuMJ9TK7GPyahR_BfLwfn4ec7vX7DgiHx42vFc4E7g/edit?usp=sharing).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](github.com/aluno1)
-- [Aluno2](github.com/aluno2)
+- Ana Luiza Bernardo Timoteo - https://github.com/anatimoteo
+- Elisa Cecília Rocha de Almeida Coelho - https://github.com/elisacoelho
+- Isabelle Cristina da Cunha - https://github.com/isabelleIFC
+- Vitor Schmidt - https://github.com/vitoorschmidt
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
+-   [Documentação (esse documento)](https://github.com/isabelleIFC/InMove.git)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
@@ -39,51 +42,32 @@ Links do projeto:
 
 **Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
 
-**1.1.1 Ponto de Vendas (PDV)**
-
-**Gerenciamento de vendas para uma padaria**
-
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
-
-**1.1.2 Empréstimo**
-
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
 
 **1.1.3 Ordem de Serviço (O.S.)**
 
-**Manutenção de computadores**
+**Sistema Integrado de Treinos e Bem-Estar**
 
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio no qual ele é responsável pelos consertos e sua esposa, Marília, realiza o atendimento aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante para ele conseguir ter relatórios que o ajudem na gestão da empresa, como o status dos serviços.
+Felipe é um cliente que recentemente iniciou sua jornada como atleta de corrida. Descobriu a corrida como uma paixão, além de ser uma prática extremamente benéfica para sua saúde e bem-estar. Para apoiar seu desenvolvimento como corredor, Felipe também pratica musculação, que fortalece seu corpo e aumenta sua resistência, complementando os treinos de corrida.
+No entanto, ao entrar nesse universo fitness, Felipe se deparou com um grande desafio: o uso de diversas ferramentas distintas para monitorar suas atividades e progresso. Ele acabava se perdendo entre diferentes plataformas, anotações de metas, avanços e relatórios de treino, o que demandava um tempo considerável de organização. Muitas vezes, as informações ficavam descentralizadas e ele não conseguia acompanhar seu desempenho de maneira eficiente.
+Diante disso, Felipe percebeu a necessidade de um sistema integrado que centralizasse todas as informações importantes em um único lugar. Ele deseja uma solução personalizada para acompanhar seus treinos de musculação e corrida, seu desempenho nas corridas, o controle de sua alimentação, dieta e ingestão diária de água, tudo de forma simples e intuitiva.
+Além disso, é essencial que o sistema ofereça incentivos e estímulos para ajudá-lo a manter a disciplina e o foco nos seus objetivos, promovendo um acompanhamento contínuo e motivador em sua jornada de desenvolvimento físico e atlético.
+
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
-
 ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
 
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
+  A **InMove** é uma empresa especializada no desenvolvimento de soluções tecnológicas voltadas para o universo fitness e bem-estar. Fundada há 2 anos por ex-alunos desenvolvedores que são apaixonados por esportes e saúde. A InMove tem como missão criar plataformas que integrem e facilitem o gerenciamento de treinos, alimentação e saúde de seus usuários. A equipe da InMove é composta por profissionais, incluindo desenvolvedores, designers e especialistas em nutrição e fisiologia esportiva. A empresa se destaca por sua capacidade de criar soluções personalizadas, ajudando tanto indivíduos quanto empresas do setor fitness a oferecerem uma experiência mais eficiente e integrada para seus clientes.
 
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
+  A InMove surgiu com a missão de resolver um problema crescente entre aqueles que buscam melhorar sua saúde e alcançar seus objetivos de bem-estar: a fragmentação das informações. Muitas pessoas, como o cliente Felipe, se deparam com a dificuldade de monitorar seu progresso, pois utilizam diferentes plataformas e ferramentas para registrar suas atividades físicas, alimentação e saúde, tornando o processo de acompanhamento complexo e desorganizado.
 
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são propostas com empresas fictícias, sendo assim, você terá que tomar certas decisões sobre como a empresa funciona em relação às coisas que não estão definidas no documento base (por exemplo, no caso da padaria, dizemos que seu Genival contratou mais funcionários, mas saber quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
+  Felipe, por exemplo, começou a praticar atividades físicas com o objetivo de perder peso e melhorar a saúde, mas logo percebeu que não conseguia acompanhar seus treinos de musculação, suas corridas e, ao mesmo tempo, controlar sua alimentação e ingestão de água de forma eficaz. Ela usava um aplicativo para os treinos, outro para a nutrição e outro ainda para registrar seus parâmetros de saúde, mas essa sobrecarga de informações dispersas acabava dificultando a visualização do seu progresso. O tempo perdido na organização desses dados, muitas vezes incompletos ou desatualizados, prejudicava a motivação e comprometia o alcance de seus objetivos.
 
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
+  Além disso, Felipe encontrou dificuldades para estabelecer um plano de treino e alimentação consistente que fosse adequado às suas necessidades específicas. Embora existissem diversos programas disponíveis, poucos ofereciam uma personalização real que levasse em consideração suas condições de saúde, metas e preferências. A falta de um acompanhamento contínuo e de incentivos consistentes também foi um fator desmotivador, o que fez com que, algumas vezes, ela abandonasse suas rotinas.
 
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+  Outro desafio enfrentado por Felipe foi a escassez de feedbacks que ajudassem a ajustar seu treinamento e alimentação. As orientações eram vagas, sem considerar seus resultados anteriores e a evolução dos parâmetros de desempenho, como a resistência, o aumento da força ou as melhorias na performance cardiovascular.
+
+  Com base nos desafios enfrentados por Felipe e observando a situação de muitos outros usuários, é evidente que há uma grande necessidade de uma solução integrada que centralize todas as informações relacionadas ao bem-estar e à saúde do indivíduo. A InMove tem a oportunidade de resolver esse problema ao criar uma plataforma que, além de reunir dados de treinos, alimentação e saúde em um único sistema, também ofereça um acompanhamento contínuo e personalizado. A plataforma fornecerá recomendações de treino, sugestões alimentares, relatórios constantes e, principalmente, incentivos para manter a motivação alta. A integração dessas funcionalidades em um único software tornaria o processo de alcançar os objetivos de saúde e bem-estar mais simples, eficiente e, acima de tudo, motivador.
 
 # 3. Descrição da proposta
 
