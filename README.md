@@ -1,11 +1,10 @@
-# Projeto Integrador - Modelo
-InMove
+# InMove
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
 O **InMove** é um aplicativo completo focado em saúde e bem-estar, oferecendo funcionalidades para a criação de treinos e dietas personalizadas, além de relatórios comparativos de progresso e dicas de receitas saudáveis. Ideal para quem busca alcançar objetivos como hipertrofia, emagrecimento ou simplesmente melhorar a qualidade de vida, o InMove fornece ferramentas práticas e motivadoras para acompanhar e otimizar seu desempenho, ajudando a conquistar resultados sustentáveis e um estilo de vida mais saudável.
 
-**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/1KXuMJ9TK7GPyahR_BfLwfn4ec7vX7DgiHx42vFc4E7g/edit?usp=sharing).
+(https://docs.google.com/spreadsheets/d/1KXuMJ9TK7GPyahR_BfLwfn4ec7vX7DgiHx42vFc4E7g/edit?usp=sharing).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
@@ -21,36 +20,22 @@ Links do projeto:
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
-**Como usar esse modelo para o Projeto Integrador**
-
-*(Essa parte pode ser apagada depois.)*
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instaladas as seguintes extensões:
-   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-5. Edite o arquivo README.md com as informações do seu projeto.
 
 # 1. Desenvolvimento
-*(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
 
 **1.1 Modelos de Sistemas**
-
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
-
 
 **1.1.3 Ordem de Serviço (O.S.)**
 
 **Sistema Integrado de Treinos e Bem-Estar**
 
-Felipe é um cliente que recentemente iniciou sua jornada como atleta de corrida. Descobriu a corrida como uma paixão, além de ser uma prática extremamente benéfica para sua saúde e bem-estar. Para apoiar seu desenvolvimento como corredor, Felipe também pratica musculação, que fortalece seu corpo e aumenta sua resistência, complementando os treinos de corrida.
-No entanto, ao entrar nesse universo fitness, Felipe se deparou com um grande desafio: o uso de diversas ferramentas distintas para monitorar suas atividades e progresso. Ele acabava se perdendo entre diferentes plataformas, anotações de metas, avanços e relatórios de treino, o que demandava um tempo considerável de organização. Muitas vezes, as informações ficavam descentralizadas e ele não conseguia acompanhar seu desempenho de maneira eficiente.
-Diante disso, Felipe percebeu a necessidade de um sistema integrado que centralizasse todas as informações importantes em um único lugar. Ele deseja uma solução personalizada para acompanhar seus treinos de musculação e corrida, seu desempenho nas corridas, o controle de sua alimentação, dieta e ingestão diária de água, tudo de forma simples e intuitiva.
-Além disso, é essencial que o sistema ofereça incentivos e estímulos para ajudá-lo a manter a disciplina e o foco nos seus objetivos, promovendo um acompanhamento contínuo e motivador em sua jornada de desenvolvimento físico e atlético.
+  Felipe é um cliente que recentemente iniciou sua jornada como atleta de corrida. Descobriu a corrida como uma paixão, além de ser uma prática extremamente benéfica para sua saúde e bem-estar. Para apoiar seu desenvolvimento como corredor, Felipe também pratica musculação, que fortalece seu corpo e aumenta sua resistência, complementando os treinos de corrida.
+
+  No entanto, ao entrar nesse universo fitness, Felipe se deparou com um grande desafio: o uso de diversas ferramentas distintas para monitorar suas atividades e progresso. Ele acabava se perdendo entre diferentes plataformas, anotações de metas, avanços e relatórios de treino, o que demandava um tempo considerável de organização. Muitas vezes, as informações ficavam descentralizadas e ele não conseguia acompanhar seu desempenho de maneira eficiente.
+
+  Diante disso, Felipe percebeu a necessidade de um sistema integrado que centralizasse todas as informações importantes em um único lugar. Ele deseja uma solução personalizada para acompanhar seus treinos de musculação e corrida, seu desempenho nas corridas, o controle de sua alimentação, dieta e ingestão diária de água, tudo de forma simples e intuitiva.
+
+  Além disso, é essencial que o sistema ofereça incentivos e estímulos para ajudá-lo a manter a disciplina e o foco nos seus objetivos, promovendo um acompanhamento contínuo e motivador em sua jornada de desenvolvimento físico e atlético.
 
 
 # 2. Situação Problema
